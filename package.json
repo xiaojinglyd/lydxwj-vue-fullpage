@@ -1,7 +1,7 @@
 {
   "name": "@lydxwj/vue-fullpage",
   "description": "全屏翻页组件",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "xwj",
   "license": "MIT",
   "main": "lib/index.js",
@@ -11,9 +11,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lydxwj/vue-fullpage.git"
+    "url": "git+https://github.com/xiaojinglyd/lydxwj-vue-fullpage.git"
   },
-  "homepage": "https://github.com/lydxwj/vue-fullpage-cmp",
+  "homepage": "https://github.com/xiaojinglyd/lydxwj-vue-fullpage",
   "keywords": [
     "vue",
     "component",
